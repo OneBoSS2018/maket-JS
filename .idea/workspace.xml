@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d550060e-403a-4daf-ad2d-201e7e1c98ad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZRY1fF3wdB5jl0y2jM7EoxkRBq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Profile/MyPosts/ProfileInfo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mike\react-project\1-first\my-app\src\components\Profile" />
+      <recent name="C:\Users\Mike\react-project\1-first\my-app\src\components\Navbar" />
+      <recent name="C:\Users\Mike\react-project\1-first\my-app\src\components\Header" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mike\react-project\1-first\my-app\src\components\Profile\MyPosts\ProfileInfo" />
+      <recent name="C:\Users\Mike\react-project\1-first\my-app\src\components\Dialogs" />
+      <recent name="C:\Users\Mike\react-project\1-first\my-app\src\components\Profile\MyPosts\Post" />
+      <recent name="C:\Users\Mike\react-project\1-first\my-app\src\components\Profile\MyPosts" />
+      <recent name="C:\Users\Mike\react-project\1-first\my-app\src\components" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d550060e-403a-4daf-ad2d-201e7e1c98ad" name="Default Changelist" comment="" />
+      <created>1584803159786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584803159786</updated>
+      <workItem from="1584803166476" duration="5067000" />
+      <workItem from="1584864893415" duration="3262000" />
+      <workItem from="1584894538114" duration="7000" />
+      <workItem from="1585040982270" duration="2508000" />
+      <workItem from="1585395848988" duration="4023000" />
+      <workItem from="1585646415288" duration="1798000" />
+      <workItem from="1585738112293" duration="3882000" />
+      <workItem from="1585812734869" duration="4923000" />
+      <workItem from="1585837406625" duration="5355000" />
+      <workItem from="1585900673225" duration="2918000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584807222423">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584807222423" />
+    <state x="421" y="150" key="SettingsEditor" timestamp="1584806504457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="421" y="150" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584806504457" />
+    <state x="667" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1585900693847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1585040984384" />
+    <state x="667" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585900693847" />
+    <state x="667" y="154" width="585" height="732" key="find.popup" timestamp="1585739850378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="154" width="585" height="732" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585739850378" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1585822429360">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585822429360" />
+  </component>
+</project>
