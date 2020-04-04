@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d550060e-403a-4daf-ad2d-201e7e1c98ad" name="Default Changelist" comment="" />
+    <list default="true" id="d550060e-403a-4daf-ad2d-201e7e1c98ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZRY1fF3wdB5jl0y2jM7EoxkRBq" />
   <component name="ProjectViewState">
@@ -15,6 +22,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Profile/MyPosts/ProfileInfo" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -56,6 +64,7 @@
       <workItem from="1585812734869" duration="4923000" />
       <workItem from="1585837406625" duration="5355000" />
       <workItem from="1585900673225" duration="2918000" />
+      <workItem from="1586000097867" duration="312000" />
     </task>
     <servers />
   </component>
@@ -71,11 +80,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="421" y="150" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584806504457" />
-    <state x="667" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1585900693847">
+    <state x="667" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1586000098506">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="667" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1585040984384" />
-    <state x="667" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585900693847" />
+    <state x="667" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586000098506" />
     <state x="667" y="154" width="585" height="732" key="find.popup" timestamp="1585739850378">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
